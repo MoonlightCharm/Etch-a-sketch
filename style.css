@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    flex-shrink: 1;
+    flex-grow: 1;
+    flex-direction: column;
+}
+
+.permahover {
+    background: yellow;
+}
+
+.btn {
+   width: 140px;
+   height: 30px;
+}
